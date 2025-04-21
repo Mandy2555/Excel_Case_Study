@@ -1,5 +1,5 @@
 # 📁 case-study/
 ├── 📄 README.md
 ├── 📁 data/
-│   └── customer_data.xlsx
+│   └── SportsMen.xlsx
 Download the Case Study 
