@@ -1,1 +1,6 @@
-# Consumer Complain analysis Using Excel
+# 📁 case-study/
+├── 📄 README.md
+├── 📁 data/
+│   └── customer_data.xlsx
+
+
